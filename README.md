@@ -9,5 +9,5 @@ This is a web application that uses the app-brewery API to pull information from
 3. yourAPIKey 
 4. yourBearerToken 
 ---------------------------------------------------------------
--Upon filling in the credentials run server and execute the index.js file  
---check _[localhost:3000](https://localhost:3000/)_ to interact witht the application.
+- Upon filling in the credentials run server and execute the index.js file  
+-- check _[localhost:3000](https://localhost:3000/)_ to interact with the application.
