@@ -1,6 +1,8 @@
 # API-Authentication  
 **SIMPLE WEB APPLICATION**   
 
+NB: _for learning purposes._
+
 This is a web application that uses the app-brewery API to pull information from the third party server, within it is the use of 3 types of API authentications.  
 
 ---------------------------------------------------------------
